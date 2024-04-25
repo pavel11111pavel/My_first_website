@@ -10,24 +10,13 @@ body {
 .container {
     margin-top: 30px;
 }
-.row {
-}
-.col-8 {
-}
-.col-4 {
-}
-.col-3.nav_logo {
 
-}
-.col-9 {
-}
 .nav_text {
     display: flex;
     align-items: center;
     justify-content: right;
 }
-.img_size {
-}
+
 
 .title_photo {
     text-align: center;
@@ -64,4 +53,42 @@ body {
 #demo img {
     margin-top: 20px;
     width: 25%;
+}
+
+.index {
+    text-align: center;
+}
+
+.btn__reg {
+    border: none;
+    border-radius: 15px;
+    width: 150px;
+    height: 50px;
+    background-color: brown;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.hello {
+    text-align: center;
+}
+
+.btn_red {
+    border: none;
+    border-radius: 15px;
+    width: 150px;
+    height: 50px;
+    background-color: brown;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.post {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#zagolovok {
+    width: 30%;
 }
